@@ -1,6 +1,6 @@
 
-<h1>Tripoto Clone</h1>
-<P>Tripoto is one of the largest communities of Travelers in the world. We are crowd-sourcing amazing travel itineraries from around the world. Tripoto allows travelers to share their travel stories and discover amazing itineraries by real travelers.</P>
+<h1>Todo App</h1>
+<P>A Full Stack todo app where you can add, update and delete todos</P>
 
 <h3>To visit  website   <a href='https://sparkly-sherbet-8b2367.netlify.app/'>Click here</a></h3>
 

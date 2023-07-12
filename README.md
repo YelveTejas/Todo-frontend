@@ -1,6 +1,6 @@
 
 <h1>Todo App</h1>
-<P>A Full Stack todo app where you can add, update and delete todos</P>
+<P>A Full Stack todo app where you can add, update and delete multiple todos at the same time.</P>
 
 <h3>To visit  website   <a href='https://sparkly-sherbet-8b2367.netlify.app/'>Click here</a></h3>
 
